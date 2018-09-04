@@ -1,6 +1,6 @@
 n = int(input("Enter the length of the sequence: ")) # Do not change this line
 the_sum= 0
-count = 1
+count = 4
 num_1 = 1
 num_2 = 2
 num_3 = 3
